@@ -1,14 +1,11 @@
 ---
-title: "Music_Task_Stratagy_Blog"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Using Music as a Task Catalyst & Anchoring Strategy"
+author: "Diana Cornescu"
+date: "2026-01-13"
+categories: [Music, Productivity, Statistics, Data Science,]
 ---
 
+This is the first post in a Quarto blog. Welcome!
+
+<!-- ![](thumbnail.jpg) -->
 
