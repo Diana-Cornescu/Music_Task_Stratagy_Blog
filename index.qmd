@@ -11,7 +11,13 @@ Music doesn’t just fill silence — it can actively shape how we engage with t
 
 Understanding why this happens requires looking at music not as background noise, but as a tool that interacts with our internal state. There's numerious studies exploring this relationship with music, and how it can relate back to productivity. However, we will limit the scope and suggests that music can serve two distinct roles: helping us start tasks and helping us stay with them. As a result, when used correctly, it can act as both a catalyst and an attentional anchor.
 
-## Music as a "Cognitive Catalyst": Getting Started
+# Why starting is often harder than doing
+
+Task initiation can be one of the most underestimated challenges in everyday life. Whether it’s beginning a complex report, sitting down to study, or even starting household chores, the first step requires a mental shift. We have to move from rest, avoidance, or emotional resistance into focus and engagement. It requires an intentional shift from what was being done before - to a new task. This is associated with a context switch, energy costs, and overall disciple which may or may not be readly availble. 
+
+This difficulty isn’t just laziness. It’s often tied to what researchers describe as our internal climate — the combination of mood, energy, and alertness we bring into a task. When this internal climate is low, tasks feel heavier and the friction to starting noticably increases. Further more, if there are any negative associations, such as boredom, stress, or even fear linked to the task - this resistance is further amplified.
+
+However, music can help here by changing that internal climate. Listening to music before or at the start of a task can increase engagement and emotional readiness, making the transition into work feel smoother. This is music functioning as a task catalyst. While it doesn’t do the work for us, but can lower the barrier to getting started.
 
 ## Music as an "Attentional Anchor": Staying Focused
 
