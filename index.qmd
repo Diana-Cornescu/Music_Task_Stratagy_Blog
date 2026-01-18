@@ -32,19 +32,40 @@ Research on sustained attention supports this idea. In one controlled study, par
 
 After collecting the data and conducting a statistical analyisis, it was concluded that when listening to music, it's statitically significant that participants spent more time in a a task-focused state and less time mind-wandering. What does statitically significant mean? It tells us that this difference in attenion state was not by chance, and that we can statitically conclude that listen to music had a positive impact.
 
-However, it should be noted that the raw performance / speed of tasks did not significantly improve compared to silence [1]. As a result, music cannot make someone objectively faster — but it can change how their attention is distributed or maintained. This distinction matters and it's one of the limitations to using music. Feeling focused and being focused are related but not identical, and regardless music appears to support the experience of engagement even when performance metrics remain unchanged.
+## Limitations: 
+### Finding "sweet spot"
+If we have evidance then that music can help with both starting and sustaining tasks, why doesn’t it always work?
 
+The answer lies in balance. Our internal climate can broadly fall into three zones: too disengaged, too overstimulated, or somewhere in between. Tasks are done best in that middle zone — the sweet spot — where energy and focus are aligned.
 
-### The Science of the "Sweet Spot": The Inverted-U Relationship
+Music interacts with this balance. For someone feeling under-engaged or bored, music can raise engagement into the optimal range. However, for someone already highly energized or emotionally charged, the same music might push engagement too far, into to the realm of distraction. Same goes in the other case. For someone highly energized or emotionally hightened, calming and gentlier music can turn down the internally charged climate to a better range. But for someone already under-engaged or bored, it might have an opposite intended effect.
 
-<!-- ![](thumbnail.jpg) -->
+Researchers often visualizes this relationship as a curved pattern: performance and focus improve as engagement rises, but only up to a point. Beyond that peak, additional stimulation can become counterproductive, as seem in the image below:
+![](sweet_spot_image.png)
 
-## Avoiding the Mismatch: Finding Your Personal Peak
+The takeaway is simple: more stimulation and energy is not always better. This explains why the same playlist can be helpful one day and distracting the next. It’s not just the music — it’s how that music matches your current internal climate.
 
-## Putting it into Practice
+What the data actually says about performance
+
+A common assumption is that music directly improves task performance. The evidence here is mixed.
+
+Across studies, background music does not consistently improve objective performance measures such as reaction time, accuracy, or memory compared to working in silence [1][2]. In some cases, performance improves slightly; in others, it worsens. Often, it doesn’t change at all.
+
+### Objective task performance
+Another common assumption is that music directly improves task performance. But scientific evidence for this mixed.
+
+Going back to the previously mentioned study, the raw performance / speed of tasks was also measured and statistically analysed. Unforuntly, no significant performance was improve when listening to music compared to silence [1]. As a result there is no causalal relatonship of music imroving and performance or speed, only some correlation. What this means is that, while music cannot causing someone objectively faster — it does change how their attention is distributed or maintained, which can result in a proxy and indirect effect *enableing* more efficent performance. This is why there's the common assumption. But feeling focused and being focused are related but not identical, and music only appears to support the *experience* of engagement even when performance metrics remain unchanged.
+
+However, this doesn’t mean music is useless. Many studies find strong effects on mood, motivation, and perceived concentration, even when performance remains unchanged.
+
+In another study, conducted in a school environment, students listened to music before lessons for a week and compared their experience to a week without music. Self-reports showed clear improvements in mood, motivation, and concentration, with more modest improvements in perceived learning [2]. These effects were especially pronounced when the music felt energetic and personally meaningful. These reports of feeling more engaged, motivated, and better able to sustain attention means that this effect can be clearly seen ina real-world context as well [2].
 
 ## Conclusion
 
----
+Overall, music’s role for tasks and focus is neither magical nor trivial. It doesn’t guarantee better performance, and it isn’t universally helpful. However, when understood as a catalyst and attentional anchor, it becomes a powerful, very accessible tool for shaping how we engage with tasks.
+
+By paying attention to when and why music helps — and when it doesn’t — we can move beyond just seeing it as background noise and toward more intentional regulation of focus, energy, and engagement in daily life.
 
 ## References
+[1] L. Kiss and K. J. Linnell, The effect of preferred background music on task-focus in sustained attention (2021), Psychological Research.
+[2] J. Vigl, M. Ojell-Järventausta, H. Sipola, and S. Saarikallio, Melody for the Mind: Enhancing Mood, Motivation, Concentration, and Learning through Music Listening in the Classroom (2023), Music & Science.
