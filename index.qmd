@@ -26,15 +26,13 @@ However, music can help here by changing that internal climate. Listening to mus
 
 Starting a task is only half the battle. Sustaining attention — especially during long, repetitive, or mentally under-stimulating tasks — presents a different challenge altogether. Our minds naturally wander when a task doesn’t fully occupy our attention. Emails, long readings, and repetitive workflows often leave “extra” mental capacity unused. Without something to anchor our attention, our brain often uses that capacity drifts toward unrelated, but more interesting, thoughts or distractions.
 
-Music can help by providing a consistent external structure for attention. A melody, rhythm, or familiar track gives the mind something predictable to engage with, reducing the likelihood of drifting into mind-wandering. In this role, music becomes an attentional anchor.
+Music can help by providing a consistent external structure for attention. A melody, rhythm, or familiar track gives the mind something predictable to engage with, reducing the likelihood of drifting into mind-wandering. This is music functioning as an attentional anchor.
 
-Research on sustained attention supports this idea. In one controlled study, participants completed a long, monotonous attention task both in silence and while listening to their preferred music. Instead of measuring only performance speed, researchers also collected self-reports about participants’ moment-to-moment attentional states — whether they felt focused, distracted, or mentally absent.
+Research on sustained attention supports this idea. In one controlled study, participants completed a long, monotonous attention task both in silence and while listening to their preferred music. Researchers collected participants performance and speed to tasks, as well as self-reports about participants’ moment-to-moment attentional states — whether they felt focused, distracted, or mentally absent.
 
-The results were telling. When listening to music, participants reported more time spent in a task-focused state and less time mind-wandering, even though their raw performance speed did not significantly improve compared to silence [1]. Music didn’t make them objectively faster — but it changed how their attention was distributed during the task.
+After collecting the data and conducting a statistical analyisis, it was concluded that when listening to music, it's statitically significant that participants spent more time in a a task-focused state and less time mind-wandering. What does statitically significant mean? It tells us that this difference in attenion state was not by chance, and that we can statitically conclude that listen to music had a positive impact.
 
-This distinction matters. Feeling focused and being focused are related but not identical, and music appears to support the experience of engagement even when performance metrics remain unchanged.
-
-
+However, it should be noted that the raw performance / speed of tasks did not significantly improve compared to silence [1]. As a result, music cannot make someone objectively faster — but it can change how their attention is distributed or maintained. This distinction matters and it's one of the limitations to using music. Feeling focused and being focused are related but not identical, and regardless music appears to support the experience of engagement even when performance metrics remain unchanged.
 
 
 ### The Science of the "Sweet Spot": The Inverted-U Relationship
