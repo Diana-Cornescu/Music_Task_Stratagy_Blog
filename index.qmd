@@ -1,11 +1,30 @@
 ---
-title: "Using Music as a Task Catalyst & Anchoring Strategy"
+title: "Beyond Background Noise: How to Use Music as a Task Catalyst and Attention Anchor"
 author: "Diana Cornescu"
-date: "2026-01-13"
+date: "2026-01-17"
 categories: [Music, Productivity, Statistics, Data Science,]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Its a common feeling to avoids tasks when it's stressful and motivation is low. Sometimes starting may even feel harder than the task itself. In these moments, you may have intuatively put on some music in order to make it tolerable and muster enough motivation or energy to start, and this intuition isn’t random. 
+
+Music doesn’t just fill silence — it can actively shape how we engage with tasks. However, as personal experience might have shown, the relationship is nuanced. Some times music can "helps you focus” - making study or work less daunting, and repetitive chores easier to get through. However, sometimes it can also distract or do nothing at all.
+
+Understanding why this happens requires looking at music not as background noise, but as a tool that interacts with our internal state. There's numerious studies exploring this relationship with music, and how it can relate back to productivity. However, we will limit the scope and suggests that music can serve two distinct roles: helping us start tasks and helping us stay with them. As a result, when used correctly, it can act as both a catalyst and an attentional anchor.
+
+## Music as a "Cognitive Catalyst": Getting Started
+
+## Music as an "Attentional Anchor": Staying Focused
+
+### The Science of the "Sweet Spot": The Inverted-U Relationship
 
 <!-- ![](thumbnail.jpg) -->
 
+## Avoiding the Mismatch: Finding Your Personal Peak
+
+## Putting it into Practice
+
+## Conclusion
+
+---
+
+## References
